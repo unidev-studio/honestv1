@@ -1,0 +1,1 @@
+	<?PHP header("Location: https://honest-rp.su/donate"); ?>
